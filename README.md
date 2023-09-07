@@ -7,9 +7,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on " -New Skills- "
-- 🌱 I’m currently learning " -Android  App Development- "
+- 🔭 I’m currently working on " **New Skills** "
+- 🌱 I’m currently learning " **Android App Development** "
 - 📫 How to reach me: https://linktr.ee/asharful_khan
-- 😄 Pronouns: " He/Him "
+- 😄 Pronouns: " **He/Him** "
 
 
