@@ -1,6 +1,10 @@
-![MasterHead](https://wallpapercave.com/wp/wp3082255.jpg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=asharful07.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors" />
 
-<h1 align="center"> Hey there, I'm Asharful khan....👋 </h1>
+<h1 align="center">
+  <a href="git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hey%20there!%20👋;I'm%20Asharful%20khan!;" />
+  </a>
+</h1>
 
 - 🔭 I’m currently working on " **New Skills** "
 - 🌱 I’m currently learning about " **Android App Development** "
