@@ -7,7 +7,7 @@
 </h1>
 
 - 🔭 I’m currently working on " **New Skills** "
-- 🌱 I’m currently learning about " **Android App Development** "
+- 🌱 I’m currently learning about " **Advance Java** "
 - 📫 How to reach me: https://linktr.ee/asharful_khan
 - 😄 Pronouns: " **He/Him** "
   
